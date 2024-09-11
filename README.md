@@ -1,0 +1,1 @@
+This project(Customer Relationship Management) web app is made using the Django and bootstrap for responsive css design where users can register, login to the web app. And each user can add, update, view and delete the record of the customer.
